@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning GEE, Phyton and SWAT +
 - 💞️ I’m looking to collaborate on Remote sensing applied in hydrologic services
 - 📫 How to reach me ...
-- 😄 Pronouns: he
 - ⚡ Fun fact: I try to became a drummer too, but I'm not sure is harder, GIS enthusiast or drummer
 
 <!---
